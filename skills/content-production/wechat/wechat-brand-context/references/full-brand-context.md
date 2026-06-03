@@ -54,11 +54,27 @@ Typical content:
 - frontend/backend/API/database/deployment learning through real projects
 - tool combination and workflow design
 
+Fixed ending sentence:
+
+如果你也是非技术背景，且正在尝试真正把 AI 用进工作与生活。欢迎一起探索。这里不做 AI 信息搬运，只记录真实落地过程。
+
 Column ending image: `assets/wechat/ending-images/ai-product-guide-ending.png` placeholder until supplied.
 
 ### 《边走边想》
 
 Purpose: record growth, reflection, emotional self-correction, career thinking, and long-termism.
+
+Typical content:
+
+- personal growth
+- reflective notes
+- emotional review
+- career thinking
+- long-termism
+
+Fixed ending sentence:
+
+路还很长。但我们已经在路上。
 
 Column ending image: `assets/wechat/ending-images/walking-thinking-ending.png` placeholder until supplied.
 
@@ -66,15 +82,70 @@ Column ending image: `assets/wechat/ending-images/walking-thinking-ending.png` p
 
 Purpose: share books that truly changed how the creator understands problems, technology, self, or the world.
 
+Typical content:
+
+- book recommendations
+- reading input
+- cognitive nourishment
+- how books changed problem understanding
+
+Fixed ending sentence:
+
+好的书籍不会立刻改变人生，但会慢慢改变你看世界的方式。
+
 Column ending image: `assets/wechat/ending-images/book-recommendation-ending.png` placeholder until supplied.
 
 ### 《热钱之外》
 
 Purpose: rational investing observation for ordinary investors. Do not recommend stocks, predict the market, or manufacture wealth anxiety.
 
+Typical content:
+
+- market observation
+- investment rationality
+- risk / return / self-understanding
+- finance-related personal reflection
+
+Fixed ending sentence:
+
+市场每天都很热闹，但真正值得长期依靠的，不是消息，也不是运气，而是逐渐成熟的判断力。如果你也想从追热点，慢慢走向理性投资，欢迎一起学习、观察和复盘。
+
 When working with this column, use stricter fact checking, source requirements, and financial expression boundaries.
 
 Column ending image: `assets/wechat/ending-images/hot-money-beyond-ending.png` placeholder until supplied.
+
+### 《AI 简报》
+
+Purpose: track AI business, regulation, investment, product, and technical developments, and help readers identify trends, boundaries, and opportunities from fast-changing information.
+
+Core role:
+
+- AI news curation
+- trend observation
+- opportunity identification
+
+Typical content:
+
+- domestic and overseas AI companies
+- AI Agent technology
+- AI policy and regulatory updates
+- primary and secondary market investment dynamics
+- product and technical developments
+- implications for products, companies, and individuals
+
+Fixed ending sentence:
+
+AI 的变化很快，但重要的不是知道每一条消息，而是从这些变化里看见趋势、边界和机会。这份简报不追逐热点，也不堆砌资讯，只希望陪你在持续观察中，慢慢建立属于自己的判断力。
+
+Special rules:
+
+- Do not simply pile up news items.
+- Distinguish official sources, media reports, market rumors, and personal interpretation.
+- Prioritize official and authoritative sources for policy, regulation, company announcements, investment, and technical claims.
+- For current AI developments, verify recency and source reliability.
+- The output should include insight, boundary, and opportunity, not just information.
+
+Column ending image: `assets/wechat/ending-images/ai-brief-ending.png` placeholder until supplied.
 
 ## Color system
 
@@ -102,6 +173,7 @@ Avoid high-saturation blue-purple, neon colors, excessive gradients, and old gra
 - Use summary sentences that are easy to cite.
 - Use scene keywords such as AI 产品, AI Coding, 非技术背景, 产品落地, 提示词, React, API, 工作流, MCP, AI Agent.
 - Do not write generic AI news aggregation.
+- For 《AI 简报》, avoid merely stacking news; extract trend, boundary, and implication.
 
 ## WeChat article recommended structure
 
@@ -137,6 +209,8 @@ Useful formula:
 
 很多人以为____。但我真正实践后发现____。这篇文章会分享____。
 
+For 《AI 简报》, the summary should clearly identify the time-sensitive AI development, the affected audience, and the trend/opportunity/boundary it reveals.
+
 ## Publication checklist baseline
 
 Check whether:
@@ -155,3 +229,4 @@ Check whether:
 - paragraphs are not too long
 - fixed column ending image is included
 - fact-checking has been performed when needed
+- 《AI 简报》 items have source type, recency, and interpretation boundaries clearly marked when applicable
